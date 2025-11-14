@@ -1,2 +1,2 @@
 
-                                                    Made with 💖 by Our Team
+                                                    Made with 💖
