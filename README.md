@@ -1,2 +1,1 @@
-
-                                                    Made with 💖
+Built an E-Commerce Store website using Flask, MySQL, Python and HTML/CSS. Users can purchase products and give reviews, Sellers can add their inventory, IT-Admin can add Delivery Boy and sellers. Ability to use coupon codes with various conditions was implemented.
